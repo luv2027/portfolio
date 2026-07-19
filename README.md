@@ -43,7 +43,7 @@ Every push to `main` then auto-deploys.
 
 ## 📫 Connect
 
-- **Email:** luv.visionary@gmail.com
+- **Email:** luvpatelwork@gmail.com
 - **LinkedIn:** [luv-patel](https://www.linkedin.com/in/luv-patel-180273227/)
 - **GitHub:** [luv2027](https://github.com/luv2027)
 - **LeetCode:** [luv2027](https://leetcode.com/u/luv2027/)
